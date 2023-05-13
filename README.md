@@ -36,7 +36,7 @@ __disable automatic link__
 ---
 __My Profile Image__  
 
-![natural_image](https://images.pexels.com/photos/381739/pexels-photo-381739.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![natural_image](https://cdn.fordhamram.com/wp-content/uploads/OnlineGitGitHubCourses.jpg)
 
 
 
