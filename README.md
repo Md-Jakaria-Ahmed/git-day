@@ -11,7 +11,7 @@ __Inline text test__
 
   
 __Subject Order List__  
----  
+  
 1.Bangla  
 2.English  
 3.Phisics  
@@ -19,14 +19,22 @@ __Subject Order List__
 5.Biology  
   
  __Color Unorder List__  
- ---  
+   
  - Green
    - green 1 
    - green 2 
    - green 3 
  - Black 
  - Orange 
- - Yellow 
+ -Yellow   
+
+__enable automatic link__  
+https://zakaria-ahmed.blogspot.com/  
+
+__disable automatic link__  
+[Here is my blog site](https://zakaria-ahmed.blogspot.com/)
+
+
 
 
 
